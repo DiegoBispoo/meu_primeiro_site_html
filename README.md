@@ -1,0 +1,1 @@
+Criei esse site para explorar e mostrar o básico da web, desde a história da internet até como usar HTML. Você vai encontrar uma explicação sobre o surgimento da internet, a estrutura básica do HTML, e como usar tags, atributos, listas e links. É uma forma prática de entender como tudo funciona. Dê uma olhada e aprenda junto comigo!
